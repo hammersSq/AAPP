@@ -11,7 +11,7 @@
             "id": "e221eaf243f69aad",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,6 +140,8 @@
   },
   "active": "e221eaf243f69aad",
   "lastOpenFiles": [
+    "2023-10-30.md",
+    "Untitled.canvas",
     "7. Order Statistics.md",
     "imgs/Pasted image 20231029212552.png",
     "imgs/Pasted image 20231029212041.png",
@@ -161,7 +163,6 @@
     "imgs/Pasted image 20231028122933.png",
     "lesson 2 recap.md",
     "1.Intro.md",
-    "Untitled.canvas",
     "Intro",
     "imgs",
     "master method"
