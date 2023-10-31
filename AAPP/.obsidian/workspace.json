@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8652176e68cff5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Order Statistics.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Order Statistics.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Order Statistics.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "329da733ddabf9c9",
+  "active": "8652176e68cff5b0",
   "lastOpenFiles": [
+    "7. Order Statistics.md",
+    "Untitled.md",
+    "Pasted image 20231031105231.png",
+    "imgs/Pasted image 20231031105127.png",
     "imgs/Pasted image 20231031104547.png",
     "imgs/Pasted image 20231031103524.png",
     "imgs/Pasted image 20231031103446.png",
@@ -155,7 +172,6 @@
     "6. Sorting.md",
     "2023-10-30.md",
     "Untitled.canvas",
-    "7. Order Statistics.md",
     "imgs/Pasted image 20231029212552.png",
     "imgs/Pasted image 20231029212041.png",
     "5.Randomized Based Algorithms.md",
@@ -166,10 +182,6 @@
     "2. Analysis of algorithms.md",
     "imgs/Pasted image 20231029200233.png",
     "imgs/Pasted image 20231029195914.png",
-    "imgs/Pasted image 20231029195343.png",
-    "Untitled.md",
-    "imgs/Pasted image 20231028124042.png",
-    "imgs/Pasted image 20231028123459.png",
     "lesson 2 recap.md",
     "1.Intro.md",
     "Intro",
