@@ -11,8 +11,12 @@
             "id": "c24b7627f1d1ddfe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9. Randomized data Structures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b50ae0f729787d9d",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9. Randomized data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9. Randomized data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9. Randomized data Structures.md"
+              }
             }
           }
         ]
@@ -147,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24b7627f1d1ddfe",
+  "active": "329da733ddabf9c9",
   "lastOpenFiles": [
     "9. Randomized data Structures.md",
-    "Pasted image 20231101222353.png",
-    "Pasted image 20231101222150.png",
-    "Pasted image 20231101221246.png",
-    "Pasted image 20231101221157.png",
-    "Pasted image 20231101221110.png",
-    "Pasted image 20231101220336.png",
+    "imgs/Pasted image 20231101222353.png",
+    "imgs/Pasted image 20231101222150.png",
+    "imgs/Pasted image 20231101221246.png",
+    "imgs/Pasted image 20231101221157.png",
+    "imgs/Pasted image 20231101221110.png",
+    "imgs/Pasted image 20231101220336.png",
     "3.Divide and Conquer.md",
     "4.Parallel Machine Model.md",
     "5.Randomized Based Algorithms.md",
