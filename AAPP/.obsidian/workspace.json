@@ -11,12 +11,8 @@
             "id": "c24b7627f1d1ddfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Divide and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b50ae0f729787d9d",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Divide and Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Divide and Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.Divide and Conquer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,26 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "329da733ddabf9c9",
+  "active": "c24b7627f1d1ddfe",
   "lastOpenFiles": [
+    "9. Randomized data Structures.md",
+    "Pasted image 20231101222353.png",
+    "Pasted image 20231101222150.png",
+    "Pasted image 20231101221246.png",
+    "Pasted image 20231101221157.png",
+    "Pasted image 20231101221110.png",
+    "Pasted image 20231101220336.png",
+    "3.Divide and Conquer.md",
     "4.Parallel Machine Model.md",
     "5.Randomized Based Algorithms.md",
     "6. Sorting.md",
     "7. Order Statistics.md",
     "8. Primality Test.md",
-    "9. Randomized data Structures.md",
     "imgs/Pasted image 20231101213732.png",
     "imgs/Pasted image 20231101213659.png",
     "imgs/Pasted image 20231101213630.png",
     "imgs/Pasted image 20231101211205.png",
     "2. Analysis of algorithms.md",
-    "imgs/Pasted image 20231031183023.png",
-    "imgs/Pasted image 20231031181737.png",
-    "3.Divide and Conquer.md",
-    "imgs/Pasted image 20231031105231.png",
-    "imgs/Pasted image 20231031105127.png",
-    "imgs/Pasted image 20231031104547.png",
-    "imgs/Pasted image 20231031103524.png",
     "2023-10-30.md",
     "Untitled.canvas",
     "Exam Question.md",
