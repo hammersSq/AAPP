@@ -4,35 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "65be58a9ca71df33",
+        "id": "ec43bbe1f866354b",
         "type": "tabs",
         "children": [
           {
-            "id": "e221eaf243f69aad",
+            "id": "c24b7627f1d1ddfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Order Statistics.md",
+                "file": "3.Divide and Conquer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8652176e68cff5b0",
+            "id": "875bd17788bf8c6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Primality Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Primality Test.md",
+                "file": "3.Divide and Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Primality Test.md",
+                "file": "3.Divide and Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Primality Test.md"
+                "file": "3.Divide and Conquer.md"
               }
             }
           }
@@ -159,29 +154,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8652176e68cff5b0",
+  "active": "329da733ddabf9c9",
   "lastOpenFiles": [
-    "2. Analysis of algorithms.md",
-    "3.Divide and Conquer.md",
     "4.Parallel Machine Model.md",
     "5.Randomized Based Algorithms.md",
     "6. Sorting.md",
     "7. Order Statistics.md",
     "8. Primality Test.md",
+    "9. Randomized data Structures.md",
+    "imgs/Pasted image 20231101213732.png",
+    "imgs/Pasted image 20231101213659.png",
+    "imgs/Pasted image 20231101213630.png",
+    "imgs/Pasted image 20231101211205.png",
+    "2. Analysis of algorithms.md",
+    "imgs/Pasted image 20231031183023.png",
+    "imgs/Pasted image 20231031181737.png",
+    "3.Divide and Conquer.md",
     "imgs/Pasted image 20231031105231.png",
     "imgs/Pasted image 20231031105127.png",
     "imgs/Pasted image 20231031104547.png",
     "imgs/Pasted image 20231031103524.png",
-    "imgs/Pasted image 20231031103446.png",
-    "imgs/Pasted image 20231031101505.png",
     "2023-10-30.md",
     "Untitled.canvas",
-    "imgs/Pasted image 20231029212552.png",
-    "imgs/Pasted image 20231029212041.png",
     "Exam Question.md",
     "Dynamic programming.md",
-    "imgs/Pasted image 20231029200233.png",
-    "imgs/Pasted image 20231029195914.png",
     "lesson 2 recap.md",
     "1.Intro.md",
     "Intro",
