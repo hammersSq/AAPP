@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b50ae0f729787d9d",
@@ -184,13 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc839d70efa7653e",
+  "active": "329da733ddabf9c9",
   "lastOpenFiles": [
-    "Pasted image 20231102181234.png",
-    "Pasted image 20231102180836.png",
-    "Pasted image 20231102174559.png",
-    "Pasted image 20231102173450.png",
-    "Pasted image 20231102171523.png",
+    "imgs/Pasted image 20231102181234.png",
+    "imgs/Pasted image 20231102180836.png",
+    "imgs/Pasted image 20231102174559.png",
+    "imgs/Pasted image 20231102173450.png",
+    "imgs/Pasted image 20231102171523.png",
     "9. Randomized data Structures.md",
     "10.  Dynamic Programming.md",
     "8. Primality Test.md",
