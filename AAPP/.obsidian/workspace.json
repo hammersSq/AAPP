@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Randomized data Structures.md",
+                "file": "8. Primality Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,40 @@
             "id": "875bd17788bf8c6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9. Randomized data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc839d70efa7653e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.  Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f90422ff117b6362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Randomized Based Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b50ae0f729787d9d",
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Randomized data Structures.md",
+                "file": "10.  Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Randomized data Structures.md",
+                "file": "10.  Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Randomized data Structures.md"
+                "file": "10.  Dynamic Programming.md"
               }
             }
           }
@@ -154,26 +184,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24b7627f1d1ddfe",
+  "active": "fc839d70efa7653e",
   "lastOpenFiles": [
-    "8. Primality Test.md",
-    "3.Divide and Conquer.md",
+    "Pasted image 20231102181234.png",
+    "Pasted image 20231102180836.png",
+    "Pasted image 20231102174559.png",
+    "Pasted image 20231102173450.png",
+    "Pasted image 20231102171523.png",
     "9. Randomized data Structures.md",
+    "10.  Dynamic Programming.md",
+    "8. Primality Test.md",
     "7. Order Statistics.md",
-    "6. Sorting.md",
     "5.Randomized Based Algorithms.md",
-    "4.Parallel Machine Model.md",
+    "6. Sorting.md",
     "2. Analysis of algorithms.md",
+    "3.Divide and Conquer.md",
+    "4.Parallel Machine Model.md",
     "imgs/Pasted image 20231102121651.png",
     "imgs/Pasted image 20231102121251.png",
     "imgs/Pasted image 20231101222353.png",
     "imgs/Pasted image 20231101222150.png",
     "imgs/Pasted image 20231101221246.png",
     "imgs/Pasted image 20231101221157.png",
-    "imgs/Pasted image 20231101221110.png",
-    "imgs/Pasted image 20231101220336.png",
-    "imgs/Pasted image 20231101213732.png",
-    "imgs/Pasted image 20231101213659.png",
     "2023-10-30.md",
     "Untitled.canvas",
     "Exam Question.md",
