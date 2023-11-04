@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c24b7627f1d1ddfe",
+            "id": "d3135de5daa979cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Primality Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "875bd17788bf8c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9. Randomized data Structures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc839d70efa7653e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.  Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f90422ff117b6362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Randomized Based Algorithms.md",
+                "file": "12.Amortized Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.  Dynamic Programming.md",
+                "file": "12.Amortized Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.  Dynamic Programming.md",
+                "file": "12.Amortized Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.  Dynamic Programming.md"
+                "file": "12.Amortized Analysis.md"
               }
             }
           }
@@ -185,29 +148,32 @@
   },
   "active": "329da733ddabf9c9",
   "lastOpenFiles": [
-    "imgs/Pasted image 20231102181234.png",
-    "imgs/Pasted image 20231102180836.png",
-    "imgs/Pasted image 20231102174559.png",
-    "imgs/Pasted image 20231102173450.png",
-    "imgs/Pasted image 20231102171523.png",
+    "imgs/Pasted image 20231104190153.png",
+    "imgs/Pasted image 20231104190059.png",
+    "imgs/Pasted image 20231104190045.png",
+    "imgs/Pasted image 20231104190000.png",
+    "imgs/Pasted image 20231104185734.png",
+    "imgs/Pasted image 20231104185351.png",
+    "imgs/Pasted image 20231104183443.png",
+    "imgs/Pasted image 20231104183421.png",
+    "imgs/Pasted image 20231104183354.png",
+    "imgs/Pasted image 20231104182927.png",
+    "imgs/Pasted image 20231104182855.png",
+    "12.Amortized Analysis.md",
     "9. Randomized data Structures.md",
+    "3.Divide and Conquer.md",
+    "Exam.md",
+    "11. Binary Decision Diagrams.md",
     "10.  Dynamic Programming.md",
+    "2. Analysis of algorithms.md",
     "8. Primality Test.md",
+    "4.Parallel Machine Model.md",
     "7. Order Statistics.md",
+    "Exam Question.md",
     "5.Randomized Based Algorithms.md",
     "6. Sorting.md",
-    "2. Analysis of algorithms.md",
-    "3.Divide and Conquer.md",
-    "4.Parallel Machine Model.md",
-    "imgs/Pasted image 20231102121651.png",
-    "imgs/Pasted image 20231102121251.png",
-    "imgs/Pasted image 20231101222353.png",
-    "imgs/Pasted image 20231101222150.png",
-    "imgs/Pasted image 20231101221246.png",
-    "imgs/Pasted image 20231101221157.png",
     "2023-10-30.md",
     "Untitled.canvas",
-    "Exam Question.md",
     "Dynamic programming.md",
     "lesson 2 recap.md",
     "1.Intro.md",
