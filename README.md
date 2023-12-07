@@ -15,7 +15,7 @@ To get started with these notes, follow these steps:
 
     bash
 
-    git clone https://github.com/yourusername/advanced-algorithms-parallel-notes.git
+    git clone https://github.com/hammersSq/AAPP.git
 
     Install Obsidian: If you haven't already, download and install Obsidian, which is a powerful note-taking and knowledge management application.
 
