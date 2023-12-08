@@ -1,0 +1,21 @@
+# Why parallel programming
+In the today scene the most of existing algorithms are sequential, and also developer are used to think in a sequential way, this happen because until few years ago the architecture that we had were built with a single core: nowadays the architecture have multiple core with an high degree of parallelism (they can execute different instruction/task at the same time).
+For this reason is important to start to think to parallel algorithm, and not just try to make the existing one parallel.
+
+Parallel algorithm are useful for several thing: 
+- **Time saving**: parallel algorithm can be more performant than sequential one, they may require less time
+- **Money saving**: a parallel architecture composed of cheap components can be less expansive than a single processor architecture composed of a costly processor
+- **Solve Grand Challenge problems**, i.e. problems that in practice can be solved only exploiting parallelism because of their complexity.
+In addition nowadays it is important exploiting parallel algorithm because the size of the problem is always increasing (Machine Learning) and so we can refer to [[4.Parallel Machine Model#Gustafson's Law|Gustafson's Law]].
+
+## Moore's law
+The Moore's law says: 
+- ==the number of transistors incorporated in a chip will approximately double every 24 months.==
+
+![[Pasted image 20231207190554.png]]As we can see from 1970 to 2016 this were true, but in the last years we have noticed a change in the trend: this is because have to much transistor per chip consume a lot, in fact in the last 10 year the **typical power** per chip did non change a lot:
+![[Pasted image 20231207190852.png]]
+If we want to maintain the same Power consumption we cannot increase the frequency of the processors anymore.
+
+So the trend in the last years was not increase the number of transistor per chip but increase the number of chip.
+
+So now the question is [[Program Parallel Architecture|how we can program a multi-core architecture?]]
