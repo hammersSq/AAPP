@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Programming/Program Parallel Architecture.md",
+                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel Programming/Program Parallel Architecture.md",
+                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel Programming/Program Parallel Architecture.md",
+                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parallel Programming/Program Parallel Architecture.md"
+                "file": "Parallel Programming/4.Parallel Patterns.md"
               }
             }
           }
@@ -146,22 +146,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "329da733ddabf9c9",
+  "active": "7608e5699e4b2af3",
   "lastOpenFiles": [
+    "Parallel Programming/3.Dependencies in Parallel execution.md",
+    "Parallel Programming/4.Parallel Patterns.md",
+    "Parallel Programming/2.Program Parallel Architecture.md",
+    "Advanced Algorithms/11. Binary Decision Diagrams.md",
+    "Parallel Programming/1.Parallel Programming.md",
+    "imgs/Pasted image 20231208225745.png",
+    "imgs/Pasted image 20231208225531.png",
+    "imgs/Pasted image 20231208225008.png",
+    "imgs/Pasted image 20231208223656.png",
+    "imgs/Pasted image 20231208222936.png",
+    "imgs/Pasted image 20231208222840.png",
+    "imgs/Pasted image 20231208222408.png",
+    "Parallel Programming/4. Loop level parallelism.md",
+    "imgs/Pasted image 20231208184657.png",
     "imgs/Pasted image 20231208170959.png",
     "imgs/Pasted image 20231208140709.png",
-    "imgs/Pasted image 20231208140628.png",
-    "imgs/Pasted image 20231208123310.png",
-    "imgs/Pasted image 20231208123110.png",
-    "imgs/Pasted image 20231208122406.png",
-    "imgs/Pasted image 20231208122201.png",
-    "imgs/Pasted image 20231208121315.png",
-    "imgs/Pasted image 20231208120416.png",
-    "imgs/Pasted image 20231208120155.png",
-    "Parallel Programming/Parallel Programming.md",
-    "Parallel Programming/Program Parallel Architecture.md",
     "2023-12-07.md",
-    "imgs/Pasted image 20230921171358.png",
     "Untitled.canvas",
     "Exam.md",
     "Parallel Programming",
@@ -177,7 +180,6 @@
     "Advanced Algorithms/9. Randomized data Structures.md",
     "Advanced Algorithms/10.  Dynamic Programming.md",
     "Advanced Algorithms/12.Amortized Analysis.md",
-    "Advanced Algorithms/11. Binary Decision Diagrams.md",
     "Untitled.md",
     "Exam Question.md",
     "2023-10-30.md",
