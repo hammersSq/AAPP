@@ -11,12 +11,8 @@
             "id": "7608e5699e4b2af3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Programming/4.Parallel Patterns.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Parallel Programming/4.Parallel Patterns.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,19 +150,19 @@
   },
   "active": "7608e5699e4b2af3",
   "lastOpenFiles": [
-    "Pasted image 20231212182040.png",
-    "imgs/Pasted image 20231212181332.png",
-    "imgs/Pasted image 20231212180512.png",
-    "imgs/Pasted image 20231212180045.png",
-    "imgs/Pasted image 20231212175036.png",
-    "imgs/Pasted image 20231212174338.png",
-    "Pasted image 20231212171116.png",
     "Parallel Programming/4.Parallel Patterns.md",
-    "imgs/Pasted image 20231212170848.png",
-    "imgs/Pasted image 20231212161724.png",
-    "imgs/Pasted image 20231212161706.png",
-    "imgs/Pasted image 20231208222840.png",
+    "Pasted image 20231213130236.png",
     "Parallel Programming/3.Dependencies in Parallel execution.md",
+    "Pasted image 20231213125815.png",
+    "Pasted image 20231213125647.png",
+    "Pasted image 20231213121305.png",
+    "imgs/The-fork-join-model-used-for-thread-level-parallelism-in-OpenMP.png",
+    "Parallel Programming/OpenMP.md",
+    "imgs/Pasted image 20231212185150.png",
+    "imgs/Pasted image 20231212185112.png",
+    "imgs/Pasted image 20231212184611.png",
+    "imgs/Pasted image 20231212184512.png",
+    "imgs/Pasted image 20231212183030.png",
     "Parallel Programming/2.Program Parallel Architecture.md",
     "Advanced Algorithms/11. Binary Decision Diagrams.md",
     "Parallel Programming/1.Parallel Programming.md",
@@ -196,7 +188,6 @@
     "2023-10-30.md",
     "Dynamic programming.md",
     "lesson 2 recap.md",
-    "1.Intro.md",
     "Intro",
     "imgs",
     "master method"
