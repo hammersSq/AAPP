@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39adf69d5fa0c2e6",
+        "id": "ef077247a90eb043",
         "type": "tabs",
         "children": [
           {
-            "id": "7608e5699e4b2af3",
+            "id": "235723310f8477bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Programming/4.Parallel Patterns.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Parallel Programming/4.Parallel Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Parallel Programming/4.Parallel Patterns.md"
+              }
             }
           }
         ]
@@ -148,24 +156,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7608e5699e4b2af3",
+  "active": "235723310f8477bf",
   "lastOpenFiles": [
+    "Pasted image 20231214180225.png",
+    "Pasted image 20231214175309.png",
+    "Pasted image 20231214174027.png",
+    "Pasted image 20231214173817.png",
+    "Pasted image 20231214172008.png",
+    "Pasted image 20231214171957.png",
+    "Pasted image 20231214171553.png",
+    "Pasted image 20231214150940.png",
+    "Pasted image 20231214150926.png",
+    "Pasted image 20231214150713.png",
+    "Pasted image 20231214150710.png",
+    "Pasted image 20231214141110.png.md",
     "Parallel Programming/4.Parallel Patterns.md",
-    "Pasted image 20231213130236.png",
     "Parallel Programming/3.Dependencies in Parallel execution.md",
-    "Pasted image 20231213125815.png",
-    "Pasted image 20231213125647.png",
-    "Pasted image 20231213121305.png",
-    "imgs/The-fork-join-model-used-for-thread-level-parallelism-in-OpenMP.png",
-    "Parallel Programming/OpenMP.md",
-    "imgs/Pasted image 20231212185150.png",
-    "imgs/Pasted image 20231212185112.png",
-    "imgs/Pasted image 20231212184611.png",
-    "imgs/Pasted image 20231212184512.png",
-    "imgs/Pasted image 20231212183030.png",
     "Parallel Programming/2.Program Parallel Architecture.md",
-    "Advanced Algorithms/11. Binary Decision Diagrams.md",
     "Parallel Programming/1.Parallel Programming.md",
+    "Parallel Programming/OpenMP.md",
+    "Advanced Algorithms/11. Binary Decision Diagrams.md",
     "Parallel Programming/4. Loop level parallelism.md",
     "2023-12-07.md",
     "Untitled.canvas",
@@ -187,7 +197,6 @@
     "Exam Question.md",
     "2023-10-30.md",
     "Dynamic programming.md",
-    "lesson 2 recap.md",
     "Intro",
     "imgs",
     "master method"
